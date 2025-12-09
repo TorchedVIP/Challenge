@@ -12,4 +12,4 @@ The crux of this challenge is as follows: What am I reading, what is it doing, a
 -------
 ## Golf challenge
 -------
-This one I feel is slightly easier than the previous, all you have to do is figure out what some golf code does! Also, you will need the number 6. Do not put it in the program, but once you figure out what the program does, you will know how to use it.
+This one I feel is slightly easier than the previous, all you have to do is figure out what some golf code does! Also, you will need the number 6. Do not put it in the program, but once you figure out what the program does, you will know how to use it. You will use main.py for this one.
